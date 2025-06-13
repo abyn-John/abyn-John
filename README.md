@@ -13,7 +13,6 @@
 ---
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abynjohn22@gmail.com) 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
