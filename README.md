@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abyn-John&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abyn-John&icon=8&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abynjohn22@gmail.com) 
 
